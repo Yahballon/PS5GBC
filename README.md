@@ -1,12 +1,13 @@
-<p align="center"><img src="gbc/sce_sys/icon0.png" width="180" alt="PS5GBC logo"></p>
+## PS5GBC
+<p align="center">
+  <img src="screenshots/background.png" alt="PS5NES game shelf">
+</p>
 
-# PS5GBC
-
-**Game Boy and Game Boy Color on your PS5, with the original PS5SX2 cover-flow interface.**
+**Game Boy and Game Boy Color Emulator on your PS5, with the original PS5SX2 cover-flow interface.**
 
 **v1 — by YAHBALLON** · **App ID: PPSA99210**
 
-(AI-assisted) A GB/GBC-only port based on PS5GBA and mGBA 0.10.5. The GBA core is disabled in this build.
+A GB/GBC-only port based on PS5GBA and mGBA 0.10.5. The GBA core is disabled in this build.
 
 ## Features
 
