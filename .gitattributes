@@ -1,0 +1,10 @@
+# (AI-assisted) Keep shell tooling usable from Linux and WSL checkouts.
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+ps5/proto/native/tooling/prospero-clang18 text eol=lf
+*.png binary
+*.jpg binary
+*.ttf binary
+*.otf binary

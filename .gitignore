@@ -1,0 +1,33 @@
+# (AI-assisted) Generated output and local files.
+/gbc/build*/
+dist/
+.cache/
+**/.git/
+__pycache__/
+*.py[cod]
+*.o
+*.elf
+*.a
+*.so
+*.dll
+*.exe
+*.prx
+*.pkg
+*.zip
+CMakeCache.txt
+CMakeFiles/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# User games, BIOS and persistent data stay local.
+*.gb
+*.gbc
+*.gba
+*.sav
+*.rtc
+/bios/
+/games/
+/roms/

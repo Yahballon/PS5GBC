@@ -1,0 +1,9 @@
+{
+  "ai_assisted": true,
+  "scope": "Historical development report; not revalidated against the current checkout",
+  "native_build": "previously_reported_passed",
+  "gb_gbc_tests": "previously_reported_passed",
+  "console_tested": false,
+  "ps5gba_unchanged_files": 100,
+  "package_sha256": "3640e67de547b11fee2ae19c0c3662680e5449e7e749eb0d9a9518a0256e43b9"
+}
